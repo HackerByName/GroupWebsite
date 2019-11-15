@@ -1,4 +1,4 @@
 # GroupWebsite
 Our group web design project
 
-Hello world!
+Here's the link to the GitPages: https://hackerbyname.github.io/GroupWebsite/
